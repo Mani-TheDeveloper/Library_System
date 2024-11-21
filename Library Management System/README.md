@@ -9,6 +9,7 @@ A Java-based Library Management System built using JDBC for database connectivit
 - **Modular Design**: The project is divided into clear modules for database operations, GUI components, and application logic.
 
 ## Project Structure
+```
 LibraryManagementSystem/
 ├── src/
 │   └── com/
@@ -29,6 +30,7 @@ LibraryManagementSystem/
 │   ├── App.java - Main application entry point
 │   ├── main.sql - SQL scripts for database initialization
 │   └── README.md - Documentation
+```
 
 ## Screenshots
 
