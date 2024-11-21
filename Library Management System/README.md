@@ -34,10 +34,10 @@ LibraryManagementSystem/
 
 ## Screenshots
 
-[User Registration](https://raw.githubusercontent.com/Mani-TheDeveloper/Library_System/refs/heads/main/ScreenShots/userRegistration.png)
-[Book Registration](https://raw.githubusercontent.com/Mani-TheDeveloper/Library_System/refs/heads/main/ScreenShots/bookRegistration.png)
-[Borrow Book](https://raw.githubusercontent.com/Mani-TheDeveloper/Library_System/refs/heads/main/ScreenShots/borrowBook.png)
-[Return Book](https://raw.githubusercontent.com/Mani-TheDeveloper/Library_System/refs/heads/main/ScreenShots/returnBook.png)
+![User Registration](https://raw.githubusercontent.com/Mani-TheDeveloper/Library_System/refs/heads/main/ScreenShots/userRegistration.png)
+![Book Registration](https://raw.githubusercontent.com/Mani-TheDeveloper/Library_System/refs/heads/main/ScreenShots/bookRegistration.png)
+![Borrow Book](https://raw.githubusercontent.com/Mani-TheDeveloper/Library_System/refs/heads/main/ScreenShots/borrowBook.png)
+![Return Book](https://raw.githubusercontent.com/Mani-TheDeveloper/Library_System/refs/heads/main/ScreenShots/returnBook.png)
 
 ## Prerequisites
 - **Java JDK 17+**
