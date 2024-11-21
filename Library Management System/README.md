@@ -12,23 +12,23 @@ A Java-based Library Management System built using JDBC for database connectivit
 LibraryManagementSystem/
 ├── src/
 │   └── com/
-│   |    └── library/
-│   |        └── management/
-|   |              ├── db/ - Handles database operations
-|   |              |    ├── BookTable.java - Manages book data operations
-│   |              |    ├── LibraryDB.java - Central database connection handling
-│   |              |    ├── LoanTable.java - Manages loan data (borrow/return)
-│   |              |    └── UserTable.java - Manages user data
-│   |              ├── gui/ - Implements GUI components
-│   |              |    ├── BookPanel.java - GUI for managing books
-│   |              |    ├── BorrowPanel.java - GUI for borrowing books
-│   |              |    ├── Gui.java - Main GUI framework
-│   |              |    ├── Panels.java - Panel utilities and common layout logic
-│   |              |    ├── ReturnPanel.java - GUI for returning books
-│   |              |    └── UserPanel.java - GUI for managing users
+│       └── library/
+│           └── management/
+│               ├── db/ - Handles database operations
+│               │    ├── BookTable.java - Manages book data operations
+│               │    ├── LibraryDB.java - Central database connection handling
+│               │    ├── LoanTable.java - Manages loan data (borrow/return)
+│               │    └── UserTable.java - Manages user data
+│               ├── gui/ - Implements GUI components
+│               │    ├── BookPanel.java - GUI for managing books
+│               │    ├── BorrowPanel.java - GUI for borrowing books
+│               │    ├── Gui.java - Main GUI framework
+│               │    ├── Panels.java - Panel utilities and common layout logic
+│               │    ├── ReturnPanel.java - GUI for returning books
+│               │    └── UserPanel.java - GUI for managing users
 │   ├── App.java - Main application entry point
-|   ├── main.sql - SQL scripts for database initialization
-|   └── README.md - Documentation
+│   ├── main.sql - SQL scripts for database initialization
+│   └── README.md - Documentation
 
 ## Screenshots
 
@@ -60,8 +60,8 @@ Execute the App.java file to launch the Library Management System.
 
 ## Author
 
-[Mani Shankar](www.linkedin.com/in/mani-shankar-amudalapalli)
+[Mani Shankar](https://www.linkedin.com/in/mani-shankar-amudalapalli/)
 
 Java Developer passionate about building scalable, user-friendly software.
-LinkedIn: [My LinkedIn](www.linkedin.com/in/mani-shankar-amudalapalli)
+LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mani-shankar-amudalapalli/)
 GitHub: [My GitHub](https://github.com/Mani-TheDeveloper)
